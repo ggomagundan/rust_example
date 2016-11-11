@@ -4,3 +4,12 @@ version = "0.1.0"
 authors = ["ggomagundan <pbs52@hanmail.net>"]
 
 [dependencies]
+
+[[bin]]
+name = "main"
+path = "src/main.rs"
+
+
+[[bin]]
+name = "fibonachi"
+path = "src/fibonachi/main.rs"
