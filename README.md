@@ -7,8 +7,8 @@ Rust Language Example
 $ cargo run --bin main
 ```
 
-- Fibonachi(Loop, Recursive, Borrow, Borrow Recursive)
+- Fibonacci(Loop, Recursive, Borrow, Borrow Recursive)
 ```sh
-$ cargo run --bin fibonachi
+$ cargo run --bin fibonacci
 ```
 

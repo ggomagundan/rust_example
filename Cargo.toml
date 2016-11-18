@@ -11,5 +11,5 @@ path = "src/main.rs"
 
 
 [[bin]]
-name = "fibonachi"
-path = "src/fibonachi/main.rs"
+name = "fibonacci"
+path = "src/fibonacci/main.rs"
