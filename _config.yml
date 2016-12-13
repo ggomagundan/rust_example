@@ -5,6 +5,7 @@ paginate: 25
 paginate_path: "/rust_example/posts/page/:num/"
 url: # add site url http://example.com/
 blog_theme: light # Or use dark
+source: rust_example
 
 # Optional settings
 
