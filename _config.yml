@@ -2,7 +2,7 @@
 
 name: Chalk
 paginate: 25
-paginate_path: "/rust_example/posts/page/:num/"
+paginate_path: "/posts/page/:num/"
 url: https://ggomagundan.github.io/rust_example
 blog_theme: dark # Or use dark
 
@@ -40,7 +40,7 @@ assets:
 collections:
   my_tags:
     output: true
-    permalink: /rust_example/tag/:slug/
+    permalink: /tag/:slug/
 defaults:
   -
     scope:
@@ -63,4 +63,4 @@ gems:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
-permalink: rust_example/posts/:slug
+permalink: posts/:slug
