@@ -3,8 +3,8 @@
 name: Chalk
 paginate: 25
 paginate_path: "/rust_example/posts/page/:num/"
-url: https://ggomagundan.github.io/rust_example/
-blog_theme: light # Or use dark
+url: https://ggomagundan.github.io/rust_example
+blog_theme: dark # Or use dark
 
 # Optional settings
 
