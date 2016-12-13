@@ -44,7 +44,7 @@ collections:
 defaults:
   -
     scope:
-      path: ""
+      path: "/rust_example"
       type: my_tags
     values:
       layout: articles_by_tag
